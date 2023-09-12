@@ -1,5 +1,5 @@
 ## Team Members:
-Thomas Cartwright - cartwrightt19@students.ecu
+Thomas Cartwright - cartwrightt19@students.ecu.edu
 Luke Ray - raya19@students.ecu.edu
 Dejan Kiener - kienerd23@students.ecu.edu
 
