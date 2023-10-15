@@ -33,3 +33,4 @@ The 1st Exercise gave us this graph:
 
 The 2nd Exercise gave us this graph:
 
+![image](https://i.gyazo.com/46266b8698f68e3ce76d3f7f7acb5913.png)
