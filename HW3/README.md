@@ -28,7 +28,7 @@ ___
 
 # Results
 The 1st Exercise gave us this graph:
-https://i.gyazo.com/07fc177fa8dee864487c758ff59aa9aa.png![image](https://github.com/cartwrightt19/CSCI_4120/assets/81665471/2179daa1-11d9-4eb5-80e6-49a1dde4bb0f)
+![image](https://github.com/cartwrightt19/CSCI_4120/assets/81665471/a22d40e3-f1f1-4128-a420-d6f43a3c46ef)
 
 The 2nd Exercise gave us this graph:
 
