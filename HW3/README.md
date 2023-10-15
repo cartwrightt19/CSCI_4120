@@ -16,6 +16,10 @@ ___
  - sklearn
  - matplotlib
 ---
+
+## Quick Start:
+
+---
 - Clone repository
 - cd to folder where ipynb is saved
 - run command "jupyter -notebook" to open jupyter notebook in folder
