@@ -29,7 +29,7 @@ ___
 # Results
 The 1st Exercise gave us this graph:
 
-![image]((https://i.gyazo.com/588c632505632231a1fcc645077e8caa.png))
+![image](https://i.gyazo.com/588c632505632231a1fcc645077e8caa.png)
 
 The 2nd Exercise gave us this graph:
 
