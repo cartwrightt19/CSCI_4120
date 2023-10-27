@@ -18,7 +18,7 @@ ___
 - Clone repository
 - cd to folder where ipynb is saved
 - run command "jupyter -notebook" to open jupyter notebook in folder
-- run HW3.ipynb
+- run HW4.ipynb
 ---
 
 # Results:
