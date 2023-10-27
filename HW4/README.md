@@ -1,5 +1,3 @@
-# CSCI 4120 Group 15 Homework 1
-
 # Team Members
 ___
 Thomas Cartwright - cartwrightt19@students.ecu.edu
