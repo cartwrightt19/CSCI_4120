@@ -7,8 +7,6 @@ Dejan Kiener - kienerd23@students.ecu.edu
 ## Dependencies
 ---
  - Python (>= 3.5)
- - Jupyter
- - Juptyer Notebook
  - yellowbrick
  - seaborn
  - pandas
