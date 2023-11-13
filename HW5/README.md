@@ -24,3 +24,5 @@ ___
 - run HW5.ipynb
 ---
 # Results
+Following results:
+![image](https://i.gyazo.com/6240dc98059f556b21ffd7e7f97a0b3a.png)
