@@ -25,4 +25,4 @@ ___
 ---
 # Results
 Following results:
-![image](https://i.gyazo.com/6240dc98059f556b21ffd7e7f97a0b3a.png)
+![image](https://i.gyazo.com/711f11690c38703ea6ae790e9e6dcab9.png)
